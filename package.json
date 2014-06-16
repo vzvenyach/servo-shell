@@ -1,0 +1,15 @@
+{
+  "name": "servo-shell",
+  "version": "0.0.0",
+  "description": "A shell for servojs sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"servojs":"*",
+  	"dotenv":"*",
+  	"nodemailer":"*"
+  },
+  "author": "V. David Zvenyach"
+}
